@@ -18,6 +18,6 @@
 
 6. Ahora tenemos cambios en nuestro repositorio remoto, pero necesitamos que estos cambios estén el repositorio original, para ello le hacemos un pull request desde github
 al propietario original:
-![Pull Request](/P2/assets/pullRequest.png)
+![Pull Request](/P2/assets/pullRequest.PNG)
 
 7. Esperamos a que el propietario original acepte nuestros cambios si los considera necesarios en su repositorio.
