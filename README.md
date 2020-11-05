@@ -1,7 +1,7 @@
 # P02-20
 
 1. Para clonar un repositorio ajeno y realizar cambios en este, primero tenemos que realizar un fork de dicho repositorio y crearnos una copia de este con nuestra cuenta de github:
-![ForkRepositorio](/P2/assets/ForkRepo.png)
+![ForkRepositorio](/P2/assets/ForkRepo.PNG)
 
 2. Luego clonamos el repositorio remoto que en el que previamente realizamos un fork usando el comando:
 `git clone https://github.com/Alba1999/AlbaPractice.git`
